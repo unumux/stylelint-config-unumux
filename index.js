@@ -56,6 +56,7 @@ module.exports = {
             ignore: ["after-comment"],
         }],
         "rule-trailing-semicolon": "always",
+        "selector-class-pattern": "^[a-z\-]+$",
         "selector-combinator-space-after": "always",
         "selector-combinator-space-before": "always",
         "selector-list-comma-newline-after": "always",
