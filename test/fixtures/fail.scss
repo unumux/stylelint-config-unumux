@@ -1,0 +1,21 @@
+#testId { background-color: blue}
+.test{ 
+    margin: 0px; display: flex }
+    
+.parent {
+    .nested {
+        .more {
+            .nesting {
+                .still {
+                    .going {
+                        .not {
+                            .stopping {
+                                display: none;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
