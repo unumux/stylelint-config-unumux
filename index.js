@@ -12,7 +12,6 @@ module.exports = {
         "color-hex-case": "lower",
         "color-hex-length": "short",
         "color-named": "never",
-        "color-no-hex": [true, { "severity": "warning" }],
         "selector-no-qualifying-type": true,
         "selector-max-id": 0,
         "selector-combinator-space-after": "always",
