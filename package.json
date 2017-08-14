@@ -3,7 +3,7 @@
   "description": "UnumUX stylelint config",
   "main": "index.js",
   "scripts": {
-    "semantic-release": "semantic-release pre && npm publish --access public && semantic-release post",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post",
     "commit": "git-cz"
   },
   "author": "",
@@ -46,5 +46,6 @@
   "dependencies": {
     "stylelint-config-standard": "17.0.0",
     "stylelint-order": "0.6.0"
-  }
+  },
+  "version": "0.0.0-development"
 }
