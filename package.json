@@ -13,7 +13,7 @@
     "commitizen": "^2.5.0",
     "cz-conventional-changelog": "^2.0.0",
     "ghooks": "^2.0.0",
-    "semantic-release": "^6.3.6",
+    "semantic-release": "^17.2.3",
     "validate-commit-msg": "^2.14.0"
   },
   "repository": {
